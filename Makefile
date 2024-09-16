@@ -51,7 +51,7 @@ RAYLIB_RELEASE_PATH 	?= $(RAYLIB_PATH)/src
 
 # Define default C compiler: gcc
 # NOTE: define g++ compiler if using C++
-CC = g++
+CC = gcc
 
 
 # Define default make program: Mingw32-make
